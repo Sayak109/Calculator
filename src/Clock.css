@@ -1,0 +1,28 @@
+.clock-container {
+  text-align: center;
+  background-color: #1a1a1a;
+  color: white;
+  padding: 30px;
+  border-radius: 12px;
+  width: 300px;
+  margin: 50px auto;
+}
+
+.clock-title {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+.timezone-select {
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  border: none;
+  outline: none;
+}
+
+.clock-display {
+  font-size: 2rem;
+  font-weight: bold;
+}
